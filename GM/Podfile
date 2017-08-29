@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.1'
+
+target "GM" do
+pod 'GoogleMaps'
+pod 'Firebase'
+pod 'Firebase/Database'
+pod 'Firebase/Auth'
+
+end
+
+project '/Users/Rahulkumar0630/Desktop/GM/GM/GM.xcodeproj'
